@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-	printf("After first commit\n");
+	printf("After second commit\n");
 }
