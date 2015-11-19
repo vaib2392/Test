@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-	printf("HelloWOrld!\n");
+	printf("After first commit\n");
 }
